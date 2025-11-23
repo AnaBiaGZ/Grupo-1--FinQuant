@@ -1,1 +1,1 @@
-# Grupo-1--FinQuant
+# Grupo 1 - FinQuant
