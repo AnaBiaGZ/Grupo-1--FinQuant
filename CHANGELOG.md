@@ -26,3 +26,7 @@ Até então não havíamos relizado nenhmuma reunião, pois tínhamos decidido e
     7- Resumo final: conclusão apresentando resultados
 
 Vamos começar pesquisando os ativos com quais vamos trabalhar, focando em áreas específicas, como utilidade pública (energia/água), setor bancário, commodities, moda, entre outros. A ideia inicial é escolher um setor principal para focar o nosso estudo de caso e selecionar as melhores empresas dentro dele.
+
+## Semana 7 - Reunião no dia 22/12/2025:
+
+Nesta reunião conversamos sobre quais ativos usaríamos em nosso projeto. Para isso, nosso amigo Navarro nos aconselhou a pegarmos os ativos do S&P 100. Além disso, ele sugeriu que mudássemos um pouco o cálculo do Máximo Sharpe, afim de adicionar um toque de criatividade no projeto. Ele sugeriu também que mostrássemos a análise de risco das estratégias após a explicação dos resultados.
