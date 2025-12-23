@@ -29,4 +29,6 @@ Vamos começar pesquisando os ativos com quais vamos trabalhar, focando em área
 
 ## Semana 7 - Reunião no dia 22/12/2025:
 
-Nesta reunião conversamos sobre quais ativos usaríamos em nosso projeto. Para isso, nosso amigo Navarro nos aconselhou a pegarmos os ativos do S&P 100. Além disso, ele sugeriu que mudássemos um pouco o cálculo do Máximo Sharpe, afim de adicionar um toque de criatividade no projeto. Ele sugeriu também que mostrássemos a análise de risco das estratégias após a explicação dos resultados.
+Nesta reunião, discutimos a definição dos ativos que serão utilizados no projeto. Nesse contexto, nosso mentor, Gabriel Navarro, recomendou a seleção de ativos pertencentes ao S&P 100, uma vez que o mercado estadunidense oferece maior disponibilidade, padronização e confiabilidade de dados históricos, o que facilita tanto a coleta quanto a manipulação das informações ao longo das análises.
+Além disso, foi sugerido que o cálculo tradicional do Máximo Sharpe fosse adaptado, visando a adicionar criatividade no projeto. A proposta é ir além da otimização clássica média-variância e testar variações que possam gerar insights mais ricos e resultados potencialmente mais robustos. 
+Por fim, o mentor também recomendou que a análise de risco das estratégias fosse apresentada após a discussão dos resultados de performance. Essa abordagem permite uma compreensão mais clara do perfil da estratégia e facilita sua classificação quanto ao público-alvo (conservador, moderado ou arrojado), reforçando a coerência entre retorno esperado e nível de risco assumido.
